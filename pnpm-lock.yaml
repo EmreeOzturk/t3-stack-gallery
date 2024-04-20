@@ -11,6 +11,9 @@ dependencies:
   drizzle-orm:
     specifier: ^0.29.4
     version: 0.29.5(@types/react@18.2.79)(pg@8.11.5)(postgres@3.4.4)(react@18.2.0)
+  gallery-app:
+    specifier: 'link:'
+    version: 'link:'
   next:
     specifier: ^14.2.1
     version: 14.2.2(react-dom@18.2.0)(react@18.2.0)
