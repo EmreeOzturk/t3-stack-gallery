@@ -16,7 +16,7 @@ const mockData = Array.from({ length: 12 }, (_, i) => ({
   url: mockUrls[i % mockUrls.length],
 }))
 
-
+export const dynamic = "force-dynamic";
 
 export default async function HomePage() {
   const posts = await db.query.posts.findMany();
