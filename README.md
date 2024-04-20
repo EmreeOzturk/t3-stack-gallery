@@ -5,8 +5,8 @@
 
 - [x] Deploy to Vercel (w/ Vercel)
 - [x] Scaffold the ui with mock data
-- [ ] Set up a database (w/ Vercel Postgres)
-- [ ] Attach the database to the app
+- [x] Set up a database (w/ Vercel Postgres)
+- [x] Attach the database to the app
 - [ ] Add authentication (w/ Clerk)
 - [ ] Add image upload
 - [ ] Error handling (w/ Sentry)
