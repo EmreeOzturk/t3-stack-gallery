@@ -9,6 +9,7 @@
 - [x] Attach the database to the app
 - [ ] Add authentication (w/ Clerk)
 - [ ] Add image upload
+- [ ] "taint" (server-only)
 - [ ] Error handling (w/ Sentry)
 - [ ] Routing/image page (parallel routing)
 - [ ] Delete image (server action)
