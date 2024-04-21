@@ -1,5 +1,5 @@
 import "~/styles/globals.css";
-
+import "@uploadthing/react/styles.css";
 import { Inter } from "next/font/google";
 import Navbar from "./_components/Navbar";
 import { ClerkProvider } from '@clerk/nextjs'
